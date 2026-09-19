@@ -1,0 +1,6 @@
+{
+  "name": "Amahle - A Special Invitation",
+  "description": "An interactive, personalized romantic date invitation experience crafted especially for Amahle, featuring memories from Wits Education Campus, background music, and date night scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
